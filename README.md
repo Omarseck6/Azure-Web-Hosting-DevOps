@@ -30,7 +30,7 @@ This project showcases a scalable YouTube clone application developed using Angu
 
 ## Features
 
-- **Frontend Framework**: Built with Angular for a responsive and dynamic UI.
+- **Frontend Framework**: Built with React for a responsive and dynamic UI.
 - **CI/CD Automation**: Full automation of build, test, and deploy stages.
 - **Azure Hosting**: Deployed on Azure App Services.
 - **Blue-Green Deployment**: Safe rollout of updates using deployment slots.
@@ -39,7 +39,7 @@ This project showcases a scalable YouTube clone application developed using Angu
 
 ## Technologies Used
 
-- **Angular**: Frontend framework
+- **React.js**: Frontend framework
 - **Azure Repos (Git)**: Source code management
 - **Azure Build Pipeline (CI)**: Automates build and test processes
 - **Azure Release Pipeline (CD)**: Automates deployment stages
@@ -55,7 +55,6 @@ This project showcases a scalable YouTube clone application developed using Angu
 Ensure you have the following installed:
 
 - Node.js and npm
-- Angular CLI
 - Azure CLI
 - Git
 
